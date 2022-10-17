@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/10/16 16:28:11.000.628,=C:\Users\admin.DESKTOP-OP50Q9O\Documents\GitHub\boletointerdelphi\Exemplo\uFrm.Main.pas</Transaction>
+    <Transaction>2022/10/16 16:28:20.000.090,=C:\Users\admin.DESKTOP-OP50Q9O\Documents\GitHub\boletointerdelphi\Exemplo\Controller\uController.BancoInter.pas</Transaction>
+    <Transaction>2022/10/16 16:28:20.000.121,=C:\Users\admin.DESKTOP-OP50Q9O\Documents\GitHub\boletointerdelphi\Exemplo\Controller\uLkJSON.pas</Transaction>
+    <Transaction>2022/10/16 18:14:46.000.034,=C:\Users\admin.DESKTOP-OP50Q9O\Documents\GitHub\boletointerdelphi\Exemplo\Funcoes\Exception.pas</Transaction>
+    <Transaction>2022/10/16 18:16:41.000.313,=C:\Users\admin.DESKTOP-OP50Q9O\Documents\GitHub\boletointerdelphi\Exemplo\Funcoes\Boleto.Exception.pas</Transaction>
+    <Transaction>2022/10/16 18:21:43.000.341,C:\Users\admin.DESKTOP-OP50Q9O\Documents\GitHub\boletointerdelphi\Exemplo\Funcoes\Boleto.Exception.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
