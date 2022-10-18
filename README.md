@@ -13,7 +13,8 @@ Fonte inicial baseado no projeto do Delmar
 https://github.com/delmardelima/Api_BancoInter_v2
 
 ## Suporte e consultoria
-Sinta-se à vontade para fazer perguntas através do WhatsApp: https://wa.me/5592993194403
+Sinta-se à vontade para fazer perguntas através do WhatsApp:
+https://api.whatsapp.com/send?phone=559299319-4403&text=SuporteTecnico
 
 ## Doação
 ### Doações via PIX / Donations PIX: 
